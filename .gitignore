@@ -1,0 +1,31 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary & Log Files
+*.log
+*.tmp
+*.bak
+scratch/
+
+# Build and Node artifacts (if used with docs generators)
+node_modules/
+.temp/
+.cache/
+_site/
+.docusaurus/

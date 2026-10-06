@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you cite or use these research materials, please cite them using the metadata below."
+title: "Pelindo Strategic Studies & Tanjung Priok Maritime Intelligence Dossier"
+authors:
+  - family-names: "Research Contributors"
+    given-names: "Pelindo & Tanjung Priok Immersion Group"
+date-released: 2026-09-30
+url: "https://github.com/egxl/pelindo-strategic-studies"
+repository-code: "https://github.com/egxl/pelindo-strategic-studies"
+keywords:
+  - "pelindo"
+  - "tanjung-priok"
+  - "maritime-logistics"
+  - "port-operations"
+  - "indonesia-infrastructure"
+  - "container-terminal"
+  - "post-merger-transformation"
+  - "green-port"
+  - "logistics-benchmarking"
+abstract: >-
+  A comprehensive, institutional-grade research dossier evaluating the post-merger
+  consolidation of PT Pelabuhan Indonesia (Persero) (Pelindo), end-to-end container
+  terminal operations at the Port of Tanjung Priok, digital systems integration,
+  regional benchmarking across Southeast Asia, ESG decarbonization pathways, and systemic
+  governance and risk frameworks.
+license: "CC-BY-4.0"
